@@ -1,0 +1,23 @@
+{
+  "name": "challenge-my-attempt",
+  "version": "1.0.0",
+  "description": "��C\u0000h\u0000a\u0000l\u0000l\u0000e\u0000n\u0000g\u0000e\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arbOP/my-attempt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arbOP/my-attempt/issues"
+  },
+  "homepage": "https://github.com/arbOP/my-attempt#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
